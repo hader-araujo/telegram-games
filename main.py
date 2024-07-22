@@ -49,7 +49,7 @@ todas_instancias = [
     ("v2_conta_7", "Nougat32_23")
 ]
 
-tempo_aberto = 90  # Tempo em segundos
+tempo_aberto = 100  # Tempo em segundos
 
 while True:
     alternar_instancias(todas_instancias, tempo_aberto)
